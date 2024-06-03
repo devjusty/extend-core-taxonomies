@@ -1,0 +1,51 @@
+/* Styling for related posts widget */
+.related-posts-widget {
+  border: 1px solid #ddd;
+  padding: 15px;
+  background-color: #fafafa;
+  margin-bottom: 20px;
+}
+
+.related-posts-widget ul {
+  list-style: none;
+  padding: 0;
+}
+
+.related-posts-widget ul li {
+  margin-bottom: 10px;
+}
+
+.related-posts-widget ul li a {
+  text-decoration: none;
+  color: #0073aa;
+}
+
+.related-posts-widget ul li a:hover {
+  text-decoration: underline;
+}
+
+/* Styling for related pages widget */
+.related-pages-widget {
+  border: 1px solid #ddd;
+  padding: 15px;
+  background-color: #fafafa;
+  margin-bottom: 20px;
+}
+
+.related-pages-widget ul {
+  list-style: none;
+  padding: 0;
+}
+
+.related-pages-widget ul li {
+  margin-bottom: 10px;
+}
+
+.related-pages-widget ul li a {
+  text-decoration: none;
+  color: #0073aa;
+}
+
+.related-pages-widget ul li a:hover {
+  text-decoration: underline;
+}

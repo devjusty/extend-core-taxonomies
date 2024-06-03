@@ -1,0 +1,11 @@
+.related-posts-block {
+  border: 1px dashed #0073aa;
+  padding: 10px;
+  background-color: #f0f0f0;
+}
+
+.related-posts-block p {
+  margin: 0;
+  font-size: 14px;
+  color: #0073aa;
+}
